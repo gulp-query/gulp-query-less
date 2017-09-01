@@ -1,12 +1,12 @@
 {
-    "name": "gulp-query-scss",
+    "name": "gulp-query-less",
     "version": "1.0.0",
-    "description": "This plugin provides automatic source maps, compiling Sass into CSS, autoprefixing and minification",
+    "description": "This plugin provides automatic source maps, compiling Less into CSS, autoprefixing and minification",
     "main": "index.js",
     "author": "Marat Nuriev",
     "email": "nurieff@gmail.com",
     "license": "MIT",
-    "repository": "https://github.com/gulp-query/gulp-query-scss",
+    "repository": "https://github.com/gulp-query/gulp-query-less",
     "keywords": [
         "css",
         "autoprefixer",
