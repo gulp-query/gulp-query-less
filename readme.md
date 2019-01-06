@@ -16,7 +16,7 @@ Paste the code into your `gulpfile.js` and configure it
 let build = require('gulp-query')
   , less = require('gulp-query-less')
 ;
-cocktail(function (query) {
+build((query) => {
     query.plugins([less])
       .less('src/less/app.less','css/','app')
 
